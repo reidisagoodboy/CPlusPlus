@@ -1,1 +1,4 @@
 #远在天边，近在眼前
+git add filename
+git commit -m "description" filename
+git push -u origin master
